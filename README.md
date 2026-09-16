@@ -23,14 +23,15 @@
 
 ## ✨ Features
 
-- **Auto Sell** — Fast batch transfer and smart inventory selling with whitelist item selection.
-- **Auto Drop** — Automated item dumping and order fulfillment with slot configuration.
-- **Modern Cyber-Violet UI** — Glassmorphic dual-pane configuration interface with multi-language (i18n) support.
-- **Zero Overhead** — Fully client-side, lightweight, and optimized for performance.
+- **[Auto Sell](#auto-sell)** — Fast batch transfer and smart inventory selling with whitelist item selection.
+- **[Auto Drop](#auto-drop)** — Automated item dumping and order fulfillment with slot configuration.
+- **[Default Keybindings](#keybindings)** — Quick reference for in-game shortcuts and toggles.
+- **[Requirements & Installation](#installation)** — Easy step-by-step setup guide for Fabric.
+- **[Recommended Utility Mods](#recommended-mods)** — Privacy and anti-leak companion mods.
 
 ---
 
-### 🛒 Auto Sell
+### <a id="auto-sell"></a>🛒 Auto Sell
 
 - **Batch Transfer**: Instantly and safely moves all selected items from your inventory into server `/sell` chests or shop menus.
 - **Custom Whitelist Selection**: Full in-game item picker with real-time search to choose exactly which items should be sold.
@@ -39,7 +40,7 @@
 
 ---
 
-### 📦 Auto Drop (Order Fulfillment)
+### <a id="auto-drop"></a>📦 Auto Drop (Order Fulfillment)
 
 - **Automated Dumping**: Fast inventory clearing for server drop orders and bulk item hand-ins.
 - **Configurable Drop & Next Slots**: Customize the exact target slot and next-page arrow slot.
@@ -53,7 +54,7 @@
 
 ---
 
-## ⌨️ Default Keybindings
+### <a id="keybindings"></a>⌨️ Default Keybindings
 
 | Key | Action | Description |
 | :--- | :--- | :--- |
@@ -65,7 +66,7 @@
 
 ---
 
-## 📋 Requirements
+### <a id="installation"></a>📋 Requirements & Installation
 
 - **Fabric Loader**: `>= 0.16.x` (or `>= 0.15.x` for 1.21.x)
 - **Fabric API**: Matching your Minecraft version
@@ -73,10 +74,7 @@
   - Java 25 / 26 for Minecraft 26.x
   - Java 21 for Minecraft 1.21.x
 
----
-
-## 🚀 Installation
-
+#### Steps:
 1. Install [Fabric Loader](https://fabricmc.net/use/) for your Minecraft version.
 2. Download the matching [Fabric API](https://modrinth.com/mod/fabric-api) for your client.
 3. Download the latest `aDonut-[version].jar` from **[GitHub Releases](https://github.com/adrayim/aDonut/releases)**.
@@ -85,7 +83,7 @@
 
 ---
 
-## 🛠️ Building from Source
+### 🛠️ Building from Source
 
 Clone the repository and build using Gradle:
 
@@ -94,14 +92,14 @@ git clone https://github.com/adrayim/aDonut.git
 cd aDonut
 ```
 
-### Minecraft 26.x:
+#### Minecraft 26.x:
 ```bash
 cd "aDonut 26.x"
 ./gradlew build
 ```
 *Output jar: `build/libs/aDonut-26.x-*.jar`*
 
-### Minecraft 1.21.x:
+#### Minecraft 1.21.x:
 ```bash
 cd "aDonut 1.21.x"
 ./gradlew build
@@ -110,7 +108,7 @@ cd "aDonut 1.21.x"
 
 ---
 
-## 🛡️ Recommended Security & Utility Mods
+### <a id="recommended-mods"></a>🛡️ Recommended Security & Utility Mods
 
 For maximum privacy, anti-leak protection, and safety on multiplayer servers, we recommend pairing **aDonut** with:
 
