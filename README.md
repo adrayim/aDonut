@@ -112,10 +112,9 @@ cd "aDonut 1.21.x"
 
 ## 🛡️ Recommended Security & Utility Mods
 
-For maximum privacy, anti-leak protection, and safety on multiplayer servers, we recommend pairing **aDonut** with OPSEC:
+For maximum privacy, anti-leak protection, and safety on multiplayer servers, we recommend pairing **aDonut** with:
 
-- **[OpSec Community Edition](https://github.com/tufkan1/OpSec)** - Modern community fork supporting 1.20 - 26.3 with tracking exploit protection, channel spoofing, and account management.
-- **[OpSec (Original)](https://github.com/aurickk/OpSec)** - Original privacy and anti-fingerprinting mod.
+- **[OpSec Community Edition](https://github.com/tufkan1/OpSec)** - Modern community fork supporting Minecraft 1.20 – 26.3 with tracking exploit protection, channel spoofing, and account management.
 
 ---
 
