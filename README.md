@@ -23,10 +23,10 @@
 
 ## ✨ Features
 
-- **[Auto Sell](#-auto-sell)** - Fast batch transfer and smart inventory selling with whitelist item selection.
-- **[Auto Drop](#-auto-drop)** - Automated item dumping and order fulfillment with slot configuration.
-- **[Modern Cyber-Violet UI](#-modern-cyber-violet-ui)** - Glassmorphic dual-pane configuration interface with multi-language (i18n) support.
-- **[Zero Overhead](#-zero-overhead)** - Fully client-side, lightweight, and optimized for performance.
+- **Auto Sell** — Fast batch transfer and smart inventory selling with whitelist item selection.
+- **Auto Drop** — Automated item dumping and order fulfillment with slot configuration.
+- **Modern Cyber-Violet UI** — Glassmorphic dual-pane configuration interface with multi-language (i18n) support.
+- **Zero Overhead** — Fully client-side, lightweight, and optimized for performance.
 
 ---
 
