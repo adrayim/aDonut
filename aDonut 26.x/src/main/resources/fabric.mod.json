@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "adonut",
+  "version": "${version}",
+  "name": "aDonut 26.x",
+  "description": "DonutSMP Auto Sell (/sell) & Orders -> Collect Items Auto Dropper mod for Minecraft 26.x (26.1, 26.2, 26.3).",
+  "authors": [
+    "Antigravity"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/adonut/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.adonut.ADonutClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": ">=26.1 <=26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

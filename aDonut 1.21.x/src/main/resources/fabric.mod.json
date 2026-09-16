@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "adonut",
+  "version": "${version}",
+  "name": "aDonut",
+  "description": "DonutSMP Auto Sell (/sell) & Orders -> Collect Items Auto Dropper mod with configurable delay and GUI.",
+  "authors": [
+    "Antigravity"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/adonut/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.adonut.ADonutClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.21 <=1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

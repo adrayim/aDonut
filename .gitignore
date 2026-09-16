@@ -1,0 +1,18 @@
+# Gradle & Build Artifacts
+.gradle/
+build/
+bin/
+out/
+.loom/
+run/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.ipr
+*.iws
+
+# System
+.DS_Store
+Thumbs.db
